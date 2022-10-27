@@ -21,16 +21,5 @@
         "microbit"
     ],
     "preferredEditor": "tsprj",
-    "languageRestriction": "javascript-only",
-    "yotta": {
-        "config": {
-            "microbit-dal": {
-                "bluetooth": {
-                    "open": 0,
-                    "whitelist": 1,
-                    "security_level": "SECURITY_MODE_ENCRYPTION_WITH_MITM"
-                }
-            }
-        }
-    }
+    "languageRestriction": "javascript-only"
 }
