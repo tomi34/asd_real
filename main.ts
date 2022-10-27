@@ -15,6 +15,8 @@ function uwuc() {
             . # # # .
             . . # . .
             `)
+            basic.pause(1500)
+            basic.clearScreen()
     }
     if (uwu == 2) {
         basic.showLeds(`
@@ -24,6 +26,8 @@ function uwuc() {
             # # # # #
             # # # # #
             `)
+            basic.pause(1500)
+            basic.clearScreen()
     }
     if (uwu == 3) {
         basic.showLeds(`
@@ -33,6 +37,8 @@ function uwuc() {
             # # . # #
             # # . # #
             `)
+            basic.pause(1500)
+            basic.clearScreen()
     }
 }
 
